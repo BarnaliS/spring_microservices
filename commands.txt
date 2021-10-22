@@ -1,0 +1,8 @@
+git remote add origin  https://github.com/BarnaliS/spring_microservices.git 
+
+3 commands to push code to github
+git add .
+
+git commit -m "Add new file"
+
+git push origin main
