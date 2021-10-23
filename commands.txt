@@ -1,3 +1,5 @@
+to connect local repo to github:
+
 git remote add origin  https://github.com/BarnaliS/spring_microservices.git 
 
 3 commands to push code to github
