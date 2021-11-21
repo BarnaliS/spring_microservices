@@ -1,0 +1,17 @@
+
+https://dev.mysql.com/downloads/file/?id=490464
+Bennur Kalachari Shrutika 2:59 PM: 
+        private DatabasePopulator databasePopulator() { 
+             ResourceDatabasePopulator populator = new ResourceDatabasePopulator(); 
+            populator.addScript(dbscript);                 
+            return populator; 
+        }
+
+
+mysql-installer-web-community-8.0.13.0- installed for spring boot 
+http://resources.way2learnonline.com/micronew/ 
+http://resources.way2learnonline.com/spring-basics/videos/ 
+http://resources.way2learnonline.com/springmvc/
+http://resources.way2learnonline.com/micro2019new/ 
+
+
